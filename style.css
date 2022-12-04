@@ -1,0 +1,36 @@
+#mainDiv{
+    width: 700px;
+    margin: 200px auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background: linear-gradient(229.99deg, #0bb61f -26%, #9d32e4 145%);;
+}
+#mainDiv h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.showTime{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+#form{
+    margin: 100px 190px 20px ;
+      
+}
+
+#form button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(24, 198, 65);
+    color: white;
+}
+.time {
+    text-align: end;
+    padding: 20px;
+}
